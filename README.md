@@ -13,6 +13,17 @@ Sistema desenvolvido em **Java MVC (Model-View-Controller)** para gestão de est
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Pré‑requisitos](#pré‑requisitos)
+  -Estudante:
+    *Consultar e atualizar seus dados académicos e pessoais.
+    *Solicitar atendimento e acompanhar o status.
+    *Visualizar histórico de interações com a instituição.
+    *Receber respostas a dúvidas ou pedidos de forma organizada.
+  - Funcionário (atendente,administrativo):
+    *Registrar atendimentos de forma rápida e padronizada.
+    *Acessar o histórico completo de um estudante.
+    *Gerenciar filas ou fluxos de atendimento.
+    *Consultar informações académicas básicas do estudante(curso, matrícula, etc.).
+    *Gerar relatórios ou estatísticas de atendimento.
 - [Configuração do Ambiente](#configuração-do-ambiente)
   - [1. Instalar JDK 17](#1-instalar-jdk-17)
   - [2. Instalar Apache Maven](#2-instalar-apache-maven)
